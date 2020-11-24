@@ -1,0 +1,8 @@
+"teacher,student,target_type,related,participant"
+"flag_p.wav,plate.wav,english,n,exp"
+"balloon_p.wav,zeedal.wav,alien,n,exp"
+"money_p.wav,dollar.wav,english,y,child"
+"carrot_p.wav,tiv.wav,alien,n,child"
+"bed_p.wav,pillow.wav,english,y,child"
+"spoon_p.wav,cloud.wav,english,n,child"
+"penguin_p.wav,afrap.wav,alien,n,child"
